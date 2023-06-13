@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Aprendendo-1/src"/>
+	<classpathentry kind="src" path="Arrays-entrega/src"/>
+	<classpathentry kind="src" path="Arrays-entrega2/src"/>
+	<classpathentry kind="src" path="Atividades para entregar/Atividade1-entragar/src"/>
+	<classpathentry kind="src" path="Atividades para entregar/Atividade2/src"/>
+	<classpathentry kind="src" path="Atividades para entregar/Atividade3/src"/>
+	<classpathentry kind="src" path="Atividades para entregar/Atividade4/src"/>
+	<classpathentry kind="src" path="ClassJava/src"/>
+	<classpathentry kind="src" path="Converso de binario/src"/>
+	<classpathentry kind="src" path="entraga-2/src"/>
+	<classpathentry kind="src" path="Entrega-3/src"/>
+	<classpathentry kind="src" path="Entrega-4/src"/>
+	<classpathentry kind="src" path="entrega-5/src"/>
+	<classpathentry kind="src" path="FirstProject/src"/>
+	<classpathentry kind="src" path="notaSesi/src"/>
+	<classpathentry kind="src" path="situacao-aprendizagem01/src"/>
+	<classpathentry kind="output" path="Aprendendo-1/bin"/>
+</classpath>
